@@ -1,3 +1,4 @@
+package is.hi.abo25.hbv202g.ass3.frontend;
 public class UserInterface {
     public void show(String greeting) {
         System.out.println("*******************");
