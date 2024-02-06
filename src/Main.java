@@ -1,5 +1,5 @@
-import frontend.UserInterface;
-import backend.Greeter;
+import is.hi.abo25.hbv202g.ass3.frontend.UserInterface;
+import is.hi.abo25.hbv202g.ass3.backend.Greeter;
 public class Main {
 
     public static void main(String[] args) {
